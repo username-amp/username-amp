@@ -1,40 +1,40 @@
-# 👋 Hi it's qpal dev  
+# 👋 Yo, I’m Qpal Dev  
 
-Welcome to my GitHub profile! I'm a certified qpal dev passionate about pagiging qpal, currently pursuing third year at CODM.  
+Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills in pagiging Qpal, holding it down as a third-year student at CODM.  
 
 ---
 
 ## 🌟 About Me
-- 🎓 **Education**: BS in Information Technology (Ongoing)  
-- 🌱 **Learning**: JavaScript, MERN stack, and AI applications.  
-- 🌐 **Interests**: Project management, e-commerce platforms, AI, and blockchain.  
+- 🎓 **School Grind**: BS in IT, still hustling  
+- 🌱 **Currently Learning**: JavaScript, MERN stack, and AI to cook up something epic  
+- 🌐 **Interests**: Big on project management, flipping e-commerce ideas, and exploring AI & blockchain like it’s my side hustle  
 
 ---
 
-## 🔧 Technologies & Tools
-### Languages  
+## 🔧 Tech & Tools I Rock With  
+### 🖥️ Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Others  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ Others  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=username-amp&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-amp&layout=compact&theme=radical" alt="Top Languages" height="160" />
@@ -42,17 +42,17 @@ Welcome to my GitHub profile! I'm a certified qpal dev passionate about pagiging
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Hit Me Up  
 - **Email**: ramosrichardjr25@gmail.com  
-- **Instagram**: _ihatejavascript  
+- **Instagram**: [_ihatejavascript](https://instagram.com/_ihatejavascript)  
 
 ---
 
-## 🌟 Fun Facts
-- 🤖 I enjoy exploring AI applications but steer clear of heavy math!  
-- 🕰️ I love working on historical-themed projects, especially in e-commerce.  
-- ⚡ Fun Fact: I dream of automating trading with AI for student benefits!
+## 🌟 Fun Facts  
+- 🤖 AI is my jam, but math? Nah, I leave that to the calculators  
+- 🕰️ Obsessed with throwing it back to historical themes for e-commerce  
+- ⚡ Fun Fact: I wanna build an AI-powered trading system to help students bag those benefits  
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and projects. Let's connect and collaborate! 🚀  
+Yo, thanks for sliding through! Check out my projects, and if you’re down to collab, hit me up. Let’s make some magic! 🚀  
