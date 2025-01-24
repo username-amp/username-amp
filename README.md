@@ -1,6 +1,6 @@
 # 👋 Hi it's qpal dev  
 
-Welcome to my GitHub profile! I'm a certified qpal dev passionate about pagiging qpal, currently pursuing Third year at CODM.  
+Welcome to my GitHub profile! I'm a certified qpal dev passionate about pagiging qpal, currently pursuing third year at CODM.  
 
 ---
 
