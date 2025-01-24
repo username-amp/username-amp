@@ -40,3 +40,4 @@ Instagram: _ihatejavascript
 🌐 I’m on a mission to build the most epic historical-themed e-commerce platform, one line of code at a time
 🐘 PHP? Nah, don’t get me started. Love how it’s "organized" though... if by organized you mean a mess of spaghetti code 😂
 Yo, thanks for sliding through! Check out my projects, and if you’re down to collab, hit me up. Let’s make some magic! 🚀
+
