@@ -34,7 +34,7 @@ Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills i
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=username-amp&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-amp&layout=compact&theme=radical" alt="Top Languages" height="160" />
@@ -59,4 +59,4 @@ Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills i
 
 ---
 
-Yo, thanks for sliding through! Check out my projects, and if you’re down to collab, hit me up. Let’s make some magic! 🚀  
+Yo, thanks for sliding through! Check out my projects, and if you’re down to collab, hit me up. Let’s make some magic! 🚀   
