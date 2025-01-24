@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm qpal dev  
+# 👋 Hi it's qpal dev  
 
 Welcome to my GitHub profile! I'm a certified qpal dev passionate about Pagiging qpal, currently pursuing Third year at CODM.  
 
