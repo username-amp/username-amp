@@ -1,4 +1,4 @@
-## Hi there 👋
+## puro kabobohan 👋
 
 <!--
 **username-amp/username-amp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
