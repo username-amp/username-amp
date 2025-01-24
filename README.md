@@ -1,6 +1,6 @@
-# 👋 Yo, I’m Qpal Dev  
+# 👋 Yo, I’m qpal Dev  
 
-Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills in pagiging Qpal, holding it down as a third-year student at CODM.  
+Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills in pagiging qpal, holding it down as a third-year student at CODM.  
 
 ---
 
