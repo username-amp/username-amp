@@ -1,6 +1,6 @@
-# 👋 Yo, I’m qpal Dev  
+# 👋 Yo, I’m Richard Ramos Jr!  
 
-Welcome to my crib—aka my GitHub profile. Certified Qpal Dev with mad skills in pagiging qpal, holding it down as a third-year student at CODM.  
+Welcome to my crib—aka my GitHub profile. Certified qpal na tao with mad skills in pagiging qpal everyday, holding it down as a third-year student at CODM.  
 
 ---
 
