@@ -48,13 +48,13 @@ Welcome to my crib—aka my GitHub profile. Certified qpal na tao with mad skill
 
 ---
 
-## 🌟 Fun Facts
+🌟 Fun Facts
 - 🤖 AI is my jam, but math? Nah, I leave that to the calculators
-- 🕰️ Obsessed with throwing it back to historical themes for e-commerce
-- ⚡ Fun Fact: I wanna build an AI-powered trading system to help students bag those benefits
+- 🕰️ Obsessed with creating an e-commerce platform for devices
+- ⚡ Fun Fact: I’m dreaming of building an AI-powered system to help students bag those benefits someday
 - 💻 Currently trying to level up my project management game while juggling deadlines like a pro
 - 📚 Always learning and experimenting—JavaScript is my latest playground!
-- 🌐 I’m on a mission to build the most epic historical-themed e-commerce platform, one line of code at a time
+- 🌐 I’m on a mission to build an epic e-commerce platform, one line of code at a time
 - 🐘 PHP? Nah, don’t get me started. Love how it’s "organized" though... if by organized you mean a mess of spaghetti code 😂
 
 ---
