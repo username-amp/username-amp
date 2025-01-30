@@ -1,6 +1,6 @@
 # 👋 Yo, I’m Richard Ramos Jr!  
 
-Welcome to my crib—aka my GitHub profile. Certified qpal na tao with mad skills in pagiging qpal everyday, holding it down as a third-year student at CODM.  
+Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always learning and building cool stuff. Whether it's diving into AI, crafting e-commerce platforms, or just experimenting with new tech, I'm all about the grind.
 
 ---
 
