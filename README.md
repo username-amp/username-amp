@@ -55,8 +55,4 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always lear
 - 💻 Currently trying to level up my project management game while juggling deadlines like a pro
 - 📚 Always learning and experimenting—JavaScript is my latest playground!
 - 🌐 I’m on a mission to build an epic e-commerce platform, one line of code at a time
-- 🐘 PHP? Nah, don’t get me started. Love how it’s "organized" though... if by organized you mean a mess of spaghetti code 😂
 
----
-
-Yo, thanks for sliding through! Check out my projects, and if you’re down to collab, hit me up. Let’s make some magic! 🚀   
