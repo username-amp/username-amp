@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always lear
 ---
 
 ## 🌟 About Me
-- 🎓 **School Grind**: BS in IT, still hustling  
-- 🌱 **Currently Learning**: JavaScript, MERN stack, and AI to cook up something epic  
-- 🌐 **Interests**: Big on project management, flipping e-commerce ideas, and exploring AI & blockchain like it’s my side hustle  
+- 🎓 **Education:** Still hustling through my Bachelor's in IT
+- 🌱 **Currently Learning:** JavaScript, MERN stack, and AI to create something awesome
+- 💡 **Interests:** Software development, project management, e-commerce innovation, AI, and blockchain
 
 ---
 
