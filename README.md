@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Richard Ramos Jr!  
+# 👋 Yo, I’m Richard Ramos Jr!  
 
 Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always learning and building cool stuff. Whether it's diving into AI, crafting e-commerce platforms, or just experimenting with new tech, I'm all about the grind.
 
