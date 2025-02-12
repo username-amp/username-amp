@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always lear
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🛠️ Backend  
