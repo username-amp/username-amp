@@ -1,13 +1,13 @@
 # 👋 Yo, I’m Richard Ramos Jr!  
 
-Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always learning and building cool stuff. Whether it's diving into AI, crafting e-commerce platforms, or just experimenting with new tech, I'm all about the grind.
+Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, a hardcore HTML enthusiast, and a web structure perfectionist. Whether it's crafting pixel-perfect layouts, optimizing semantic markup, or making the web more accessible, I'm all about the grind.
 
 ---
 
 ## 🌟 About Me
 - 🎓 **Education:** Still hustling through my Bachelor's in IT
-- 🌱 **Currently Learning:** JavaScript, MERN stack, AI to create something awesome
-- 💡 **Interests:** Software development, project management, e-commerce innovation, AI, and blockchain
+- 🌱 **Currently Learning:** The art of HTML, from semantic elements to SEO-friendly structures
+- 💡 **Interests:** Web architecture, front-end foundations, accessibility, and making HTML do the impossible
 
 ---
 
@@ -15,6 +15,10 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always lear
 ### 🖥️ Languages  
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) 
 
+- 🏗️ Semantic HTML: Because structure matters!
+- 🎨 Clean & Readable Markup: Writing HTML like poetry
+- 🔍 SEO Optimization: Making sure the search engines love my code
+- 🎭 ARIA & Accessibility: Everyone deserves a smooth web experience
 ---
 
 ## 📊 GitHub Stats
@@ -32,9 +36,8 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, always lear
 ---
 
 🌟 Fun Facts
-- 🤖 AI is my jam, but math? Nah, I leave that to the calculators
-- 🕰️ Obsessed with creating an e-commerce platform for devices
-- ⚡ Fun Fact: I’m dreaming of building an AI-powered system to help students bag those benefits someday
-- 💻 Currently trying to level up my project management game while juggling deadlines like a pro
-- 📚 Always learning and experimenting—JavaScript is my latest playground!
-- 🌐 I’m on a mission to build an epic e-commerce platform, one line of code at a time
+- 🏆 HTML is life—CSS and JS? Just side quests
+- 🕰️ Could structure a webpage in my sleep
+- ⚡ Fun Fact: I believe divs solve all problems (but I actually use proper elements, don't worry)
+- 📚 Always refining my HTML game—because even the basics deserve mastery!
+- 🌐 On a mission to make the cleanest, most efficient markup the world has ever seen
